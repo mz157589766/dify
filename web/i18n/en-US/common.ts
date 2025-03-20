@@ -556,7 +556,7 @@ const translation = {
       vectorHash: 'Vector hash:',
       hitScore: 'Retrieval Score:',
     },
-    inputPlaceholder: 'Talk to Bot',
+    inputPlaceholder: 'If you have any questions, just ask. Use Shift + Enter to start a new line.',
     thinking: 'Thinking...',
     thought: 'Thought',
   },

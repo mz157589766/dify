@@ -48,7 +48,7 @@ const ChatInputArea = ({
   featureBarDisabled,
   onFeatureBarClick,
   visionConfig,
-  speechToTextConfig = { enabled: true },
+  speechToTextConfig = { enabled: false },
   onSend,
   inputs = {},
   inputsForm = [],
